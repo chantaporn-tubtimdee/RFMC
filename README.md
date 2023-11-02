@@ -1,2 +1,2 @@
-# RFM ; C for Customer Relationship Management (CRM)
+# RFM + C for Customer Relationship Management (CRM)
 

@@ -1,2 +1,2 @@
-# RFMC
-RFM+C analysis which C is clumpiness.
+# RFM ; C for Customer Relationship Management (CRM)
+

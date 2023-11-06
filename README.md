@@ -17,7 +17,6 @@ According to Zhang et al. (2013), Clumpiness is defined as the degree of nonconf
 Hp = Heterogeneity of consumer purchase.
 
 If a purchase is made 𝑛 times out of 𝑁 purchase opportunities, let 𝑡𝑖 be the timing of the 𝑖th purchase. Furthermore, when 𝑥𝑖 standardized to 𝑡𝑖 and defined as equations below.
-![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/5bb35b62-868d-4fec-8e73-5ec3d375a2c2)
 
 Hp will be:
 ![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/ead6a912-203f-4ac0-a2e4-c8ec1c6a5898)

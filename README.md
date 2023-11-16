@@ -16,19 +16,26 @@ According to Zhang et al. (2013), Clumpiness is defined as the degree of nonconf
 
 
 **2. Calculation of clumpiness index (C)**
+
+
 Hp = Heterogeneity of consumer purchase.
 
-If a purchase is made 𝑛 times out of 𝑁 purchase opportunities, let 𝑡𝑖 be the timing of the 𝑖th purchase. Furthermore, when 𝑥𝑖 standardized to 𝑡𝑖 and defined as equations below.
-![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/5bb35b62-868d-4fec-8e73-5ec3d375a2c2)
+If a purchase is made 𝑛 times out of 𝑁 purchase opportunities, let 𝑡𝑖 be the timing of the 𝑖th purchase. Calculate 𝑥𝑖 from 𝑡𝑖 as defined by equations below.
+
+
+![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/b9f3da4b-e181-42e7-bf09-2b134af6fa34)
+
 
 Hp will be:
 
-![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/bf86936a-d196-4efa-8d65-cfb6018669bb)
+![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/3a86c5b3-379b-4655-a906-b4b348bec823)
+
 
 Next, run a random purchasing simulation (Monte Carlo method) under the conditions of purchase opportunities 𝑁 times and number of purchases 𝑛.
 Repeat 𝑀 times and set the 𝛼%.
 
-![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/77b11261-5ea5-4847-a94d-75ca81f81741)
+![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/5677364a-15d1-4f9a-8fcf-33ddee7b3a2b)
+
 
 𝐶𝑝 = 1; Clumpiness detected，
 

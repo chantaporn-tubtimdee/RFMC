@@ -13,6 +13,8 @@ With the aim of capturing such purchasing patterns, Zhang, Bradlow & Small (2015
 
 **1. What is Clumpiness?**
 According to Zhang et al. (2013), Clumpiness is defined as the degree of nonconformity to equal spacing and demonstrates an essential component in a better understanding of recognizing a profitable customer. 
+
+
 **2. Calculation of clumpiness index (C)**
 Hp = Heterogeneity of consumer purchase.
 
@@ -27,6 +29,34 @@ Next, run a random purchasing simulation (Monte Carlo method) under the conditio
 Repeat 𝑀 times and set the 𝛼%.
 
 ![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/77b11261-5ea5-4847-a94d-75ca81f81741)
+
+𝐶𝑝 = 1; Clumpiness detected，
+
+𝐶𝑝 = 0; Clumpiness not detect
+
+**3. Example**
+
+**Users' purching patterns.**
+
+![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/adb23115-0be3-4623-baad-c19a7bab3df2)
+
+
+![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/2f0c866c-e8ab-41e5-afaa-08e349ec285a)
+
+**Clumpibess Results**
+
+![image](https://github.com/chantaporn-tubtimdee/RFMC/assets/37092034/20520fc5-b20f-4b00-8a90-f7123f16c7d6)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
